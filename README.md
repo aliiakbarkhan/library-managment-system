@@ -3,9 +3,9 @@
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [](https://www.google.com/search?q=)
 
-A simple desktop application for managing a library's books and borrowing records. This system is developed in Java using Swing for the graphical user interface. It allows librarians to add, edit, and delete books, as well as manage borrowing and returning books.
+<img alt="vlcsnap-2025-07-30-23h14m17s861" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/djnt626-a0ea26d6-f48e-4b70-b63f-935167ff215b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGpudDYyNi1hMGVhMjZkNi1mNDhlLTRiNzAtYjYzZi05MzUxNjdmZjIxNWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nNXj06xpuDc9EBR6OICAj7c7IZ5XAdcbE3skb-c6aTM" />
 
-<img width="997" height="707" alt="vlcsnap-2025-07-30-23h14m17s861" src="https://github.com/user-attachments/assets/c6227180-050d-49c7-a96d-1a66362f98fb" />
+A simple desktop application for managing a library's books and borrowing records. This system is developed in Java using Swing for the graphical user interface. It allows librarians to add, edit, and delete books, as well as manage borrowing and returning books.
 
 -----
 
